@@ -120,7 +120,7 @@ If you've encountered any difficulties or problems, report an issue to our [issu
 
 <tab id="frontend" title="Frontend web app">
 
-Kotlin provides an ability to transpile your Kotlin code, the Kotlin standard library, and any compatible dependencies to JavaScript.
+Kotlin provides a\\rern ability to transpile your Kotlin code, the Kotlin standard library, and any compatible dependencies to JavaScript.
 
 Here you'll learn how to develop and improve your frontend web application using [Kotlin/JS](js-overview.md).
 
